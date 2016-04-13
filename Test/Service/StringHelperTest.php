@@ -2,7 +2,7 @@
 
 namespace phpUnitExample\Test;
 
-use phpUnitExample\StringHelper;
+use phpUnitExample\Service\StringHelper;
 
 class URLTest extends \PHPUnit_Framework_TestCase
 {

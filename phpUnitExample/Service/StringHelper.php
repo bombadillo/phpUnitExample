@@ -1,6 +1,6 @@
 <?php
 
-namespace phpUnitExample;
+namespace phpUnitExample\Service;
 
 class StringHelper
 {
